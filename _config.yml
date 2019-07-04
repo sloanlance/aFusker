@@ -2,7 +2,7 @@ title: Fuskr
 description: Fuskr - an image gallery extension for Google Chrome
 google_analytics: UA-19087286-5
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
